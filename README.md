@@ -16,11 +16,15 @@ Phi merupakan nilai konstanta di matematika sementara jari-jari merupakan jarak 
 ## Program
 
 print("Menghitung Luas Dan Keliling Lingkaran")
+
 print("--------------------------------------")
+
 r = float(input("Masukan Jari Jari Lingkaran : "))
 
 phi = 3.14
+
 luas = phi*r *r
+
 kel = 2*phi *r
 
 
