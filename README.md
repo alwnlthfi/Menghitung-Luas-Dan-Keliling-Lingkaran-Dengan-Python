@@ -29,6 +29,7 @@ kel = 2*phi *r
 
 
 print ("Luas Lingkaran :",format(luas,'.2f'))
+
 print ("Keliling Lingkaran :",format(kel,'.2f'))
 
 ## Penjelasan
